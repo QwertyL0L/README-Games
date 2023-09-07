@@ -1,1 +1,1 @@
-QwertyL0L chose rock
+Computer chooses scissors
