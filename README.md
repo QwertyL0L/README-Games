@@ -1,1 +1,1 @@
-QwertyL0L chose paper
+Computer chooses paper
