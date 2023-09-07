@@ -1,1 +1,1 @@
-QwertyL0L chose scissors
+QwertyL0L won!
