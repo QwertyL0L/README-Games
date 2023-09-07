@@ -1,1 +1,1 @@
-Congratulations! You guessed the number 41 in 7 attempts.
+Computer chooses rock
