@@ -1,1 +1,1 @@
-Lower!
+Congratulations! You guessed the number 41 in 7 attempts.
