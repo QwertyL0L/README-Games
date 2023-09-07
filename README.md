@@ -1,1 +1,1 @@
-Computer chooses rock
+QwertyL0L chose rock
