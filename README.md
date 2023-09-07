@@ -1,1 +1,1 @@
-Computer chooses scissors
+QwertyL0L chose paper
