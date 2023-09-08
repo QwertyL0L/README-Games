@@ -1,1 +1,1 @@
-QwertyL0L won!
+Computer chooses scissors
