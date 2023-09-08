@@ -1,1 +1,1 @@
-QwertyL0L chooses rock
+QwertyL0L won!
